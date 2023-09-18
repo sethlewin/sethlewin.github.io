@@ -16,8 +16,20 @@
             background-color: rgb(80, 135, 174);
         }
    #supreme{
-            background-image: url("myBackground.jpg");
+            background-image: url("myBackground.jpg");   
+    }
         
-     }
-        
+    #dog-pic{
+        background-image: url("myBackground.jpg");
+        float: left
+        width: 200px;
+        height: 100px;
+    }
+
+    #dog-pic{
+        background-image: url("myBackground.jpg");
+        float: left
+        width: 200px;
+        height: 100px;
+    }
             
